@@ -1,0 +1,2 @@
+# Poemdictation
+Poem dictation是作者在高中期间为了实现在移动端（Android）上进行随机选题练习而编写的一个小程序
